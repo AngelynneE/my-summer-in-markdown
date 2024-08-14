@@ -1,5 +1,4 @@
-# Angelynne E 
-*my-summer-in-markdown*
+# Angelynne E  : *my-summer-in-markdown*
 # **Introduction**
 My name is Angelynne Elvambuena, I am a 12th grader at Chatsworth Charter High School. I love drawing and plan to go to a four year university to get a bachelor degree of fine arts.
 # **New Skills Learned**
