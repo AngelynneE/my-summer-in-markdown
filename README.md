@@ -1,5 +1,5 @@
-# Angelynne E
-## my-summer-in-markdown
+# Angelynne E 
+*my-summer-in-markdown*
 # **Introduction**
 My name is Angelynne Elvambuena, I am a 12th grader at Chatsworth Charter High School. I love drawing and plan to go to a four year university to get a bachelor degree of fine arts.
 # **New Skills Learned**
@@ -8,8 +8,12 @@ Over the summer, I managed to raise my baking skills! I made Churro Cheesecake a
 My favorite food this summer has been between two different things. First off, watermelon! My favorite classic summer treat. Secondly, 99% cooked ground beef with seasoned salt. It's very good and easy to make, as well as a nice source of protein to snack on.
 # **Summer Playlist**
 This summer I listened to...
-## Obsessed - Luna Day
-## ABOVE BELOW - justice
-## After Midnight - Chappell Roan
+### Obsessed - Luna Day
+### ABOVE BELOW - justice
+### After Midnight - Chappell Roan
 # **Creative Endeavors**
-## 
+This summer I drew some small things for fun, be it for my friends or personal art I wanted to create.
+The first two are my friends avatars for Roblox, while the third is a drawing of my personal character.
+![Roblox Avatar Drawing](hanaroblox.PNG)
+![Roblox Avatar Drawing](skibidiavatar.PNG)
+![Personal Character Drawing](leilinart.PNG)
